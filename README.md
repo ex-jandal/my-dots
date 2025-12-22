@@ -98,8 +98,8 @@ These dotfiles aim to balance:
 
 ## 🙋 Author
 
-**Sultan Al-Salahi**
-Cybersecurity & Networking student
+**Sultan Al-Salahi** <br/>
+Cybersecurity & Networking student <br/>
 Arch Linux • Niri • Neovim
 
 > *"I use Arch btw"*
