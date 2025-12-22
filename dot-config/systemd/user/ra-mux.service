@@ -1,0 +1,18 @@
+
+[Unit]
+Description=Rust Analyzer Multiplex Server
+After=network.target
+
+[Service]
+ExecStart=%h/.cargo/bin/ra-multiplex server
+Environment=PATH=%h/.cargo/bin:/usr/local/bin:/usr/bin
+Restart=always
+RestartSec=3
+# Optional: set working directory
+# WorkingDirectory=%h
+# Logging
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=default.target
