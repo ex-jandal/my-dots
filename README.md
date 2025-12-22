@@ -2,7 +2,7 @@
 
 > Personal dotfiles for a **minimal, productive, and aesthetic Linux workflow**.
 
-![./preview/showcase.mp4]
+https://github.com/user-attachments/assets/0ce09895-6bb8-44ed-a365-dd4656c52949
 
 These dotfiles are tailored for **Arch Linux** with a **Wayland-first** setup, focusing on speed, clarity, and keyboard-driven efficiency.
 
