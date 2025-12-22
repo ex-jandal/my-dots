@@ -4,6 +4,10 @@
 
 https://github.com/user-attachments/assets/0ce09895-6bb8-44ed-a365-dd4656c52949
 
+<img width="1920" height="1080" alt="tmux-nvim-showcase" src="https://github.com/user-attachments/assets/8e264aba-aaed-4086-b41a-14815818e115" />
+
+<img width="1920" height="1080" alt="rofi-showcase" src="https://github.com/user-attachments/assets/f34eb5c0-98f5-491f-8edb-1f1bcf3fc189" />
+
 These dotfiles are tailored for **Arch Linux** with a **Wayland-first** setup, focusing on speed, clarity, and keyboard-driven efficiency.
 
 ---
